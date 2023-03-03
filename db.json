@@ -10,5 +10,8 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "users" : [
+    {"name":  "Lílian", "email" : "lili@lilian.com", "senha" : "12345"}
+  ] 
 }
