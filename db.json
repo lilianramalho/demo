@@ -12,6 +12,6 @@
     "name": "typicode"
   },
   "users" : [
-    {"name":  "Lílian", "email" : "lili@lilian.com", "senha" : "12345"}
+    {"name":  "Lílian", "email" : "teste@teste.com", "cellphone" : "(11)99999-9999", "password" : "11111111"}
   ] 
 }
